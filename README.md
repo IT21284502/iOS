@@ -84,11 +84,11 @@ Xcode Asset Catalog – for importing dinosaur/orb/cactus images
 ```
 
 # Why This App Meets Assignment Requirements
-- ✔ At least 3 screens (Home, Game, Learn, Settings, High Scores)
-- ✔ Advanced UI + gameplay animations
-- ✔ Navigation & architecture via SwiftUI + NavigationStack
-- ✔ Data persistence via Core Data
-- ✔ Integration of emerging tech (CoreML-style logic system)
-- ✔ Polished visual assets & branding
-- ✔ Educational purpose + clearly defined audience
-- ✔ Strong potential for extension (animations, ML model, sound, etc.)
+At least 3 screens (Home, Game, Learn, Settings, High Scores)
+Advanced UI + gameplay animations
+Navigation & architecture via SwiftUI + NavigationStack
+Data persistence via Core Data
+Integration of emerging tech (CoreML-style logic system)
+Polished visual assets & branding
+Educational purpose + clearly defined audience
+Strong potential for extension (animations, ML model, sound, etc.)
