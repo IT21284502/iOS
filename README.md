@@ -80,15 +80,5 @@ This allows future expansion into full sprite animations or animated characters.
 - **Combine** – reactive state updates  
 - **Xcode Asset Catalog** – for game graphics  
 
----
 
-# Why This App Meets Assignment Requirements
-- Includes more than three screens (Home, Game, High Scores, Settings)  
-- Combines advanced UI with SpriteKit animations  
-- Uses NavigationStack for modern SwiftUI architecture  
-- Implements persistent data using Core Data  
-- Integrates an emerging-tech inspired feature (CoreML-style adaptive difficulty)  
-- Uses polished visual assets and clear theme  
-- Defines its target audience  
-- Provides opportunities for future expansion (animations, sound effects, real ML model, additional worlds)
 
