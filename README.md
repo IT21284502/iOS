@@ -1,12 +1,9 @@
 #Cretaceous Dino Explorer — App Summary
 ```
-Cretaceous Dino Explorer is an educational iOS game built using SwiftUI, SpriteKit, Core Data, and CoreML-style adaptive logic.
-It introduces children and young learners to the Cretaceous period in a fun, interactive, game-based format while demonstrating modern iOS development practices required by the assignment.
+Dino Run is an iOS game built using SwiftUI, SpriteKit, Core Data, and CoreML-style adaptive logic.
 
 purpose
-The app combines entertainment with learning, allowing users to control a dinosaur in a 2D side-scrolling environment while discovering facts about the Cretaceous era.
-After each run, players are presented with a set of scientific facts they can read and explore at their own pace.
-
+The app combines entertainment, allowing users to control a dinosaur in a 2D side-scrolling environment
 Target Audience
 Children aged 7–12, early learners, and students who enjoy dinosaurs, nature, and simple mobile games.
 The game design and educational content are tailored to be easy to understand, visually appealing, and engaging.
@@ -23,13 +20,6 @@ Collects orbs
 Avoids cactus hazards
 Lives system (3 hits = game over)
 Increasing challenge through adaptive difficulty
-```
-
-## Cretaceous Educational Content
-```
-Over 12 scientifically accurate facts
-Facts appear after completing a run (not during gameplay)
-Players can optionally open a full list of facts at the end of the game
 ```
 
 ## Adaptive Difficulty (CoreML-style System)
@@ -58,7 +48,6 @@ This provides a persistent record that users can view later under the High Score
 The app includes several screens:
 Home
 Game
-Learn (educational content)
 High Scores (Core Data)
 Settings (select difficulty & options)
 All connected using NavigationStack architecture.
@@ -90,5 +79,5 @@ Navigation & architecture via SwiftUI + NavigationStack
 Data persistence via Core Data
 Integration of emerging tech (CoreML-style logic system)
 Polished visual assets & branding
-Educational purpose + clearly defined audience
+clearly defined audience
 Strong potential for extension (animations, ML model, sound, etc.)
